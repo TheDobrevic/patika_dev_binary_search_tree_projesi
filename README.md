@@ -20,7 +20,7 @@
 |             |  |  | 2|  |  |  |4    |  |  |  |  |   |   |
 |             |  |  |  |  |  |  |     |  |  |  |  |   |   |
 
-	**Basamaklar**
+	Basamaklar
 		1) 6 Root olarak seçildi.
 		2) 7, 6'dan büyük sağa yerleştirildi.
 		3) 5, 6'dan küçük sola yerleştirildi.
